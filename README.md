@@ -1,40 +1,34 @@
-To create and add an "About Me" (`README.md`) file to your GitHub profile, follow these steps:
+# Hi, I'm Muhammad Saqib 👋
 
-### Step 1: Create a Repository with the Same Name as Your GitHub Username
-1. Go to [GitHub](https://github.com) and sign in to your account.
-2. Click the "+" icon in the top-right corner of the page, and select **New repository**.
-3. In the **Repository name** field, **type your GitHub username exactly**. For example, if your username is `muhammadsaqib`, the repository name should be `muhammadsaqib`.
-4. Set the repository to **Public** (this is required to display the profile README).
-5. Check the box **Initialize this repository with a README**.
-6. Click **Create repository**.
+I'm a **Deep Learning Specialist** with a passion for developing cutting-edge AI models and solutions. My expertise lies in deep learning, computer vision, and generative AI. I have extensive experience in building and deploying machine learning models that solve real-world problems, and I am always excited to push the boundaries of AI technology.
 
-### Step 2: Edit the `README.md` File
-1. After creating the repository, you'll see a `README.md` file listed in your repository.
-2. Click on the `README.md` file, then click the pencil icon (edit).
-3. Add information about yourself in Markdown format. For example:
+## 🚀 About Me
 
-   ```md
-   # About Me
+- 🎓 **Educational Background**: I hold a BS and MS in Software Engineering, with my MS thesis focusing on **Deep Learning** and **Computer Vision**.
+- 🧠 **Specializations**: 
+  - **Deep Learning**: Neural networks, autoencoders, and model optimization.
+  - **Computer Vision**: Human action recognition, object detection, and suspicious activity recognition in RGB-D images.
+  - **Generative AI**: Large Language Models (LLMs), including GPT, prompt engineering, and custom AI systems.
+- 💼 **Professional Experience**: I've worked on multiple freelance projects related to deep learning and computer vision, focusing on building custom AI models for Upwork clients.
 
-   Hi, I'm Muhammad Saqib 👋  
-   I'm a Software Engineer with expertise in Backend Server and SDK development. I specialize in Python, Java, and developing machine learning models. My passion is using AI to drive efficiency, particularly in legal tech. Currently, I'm diving deep into Generative AI and Computer Vision.
+## 🛠️ Skills & Tools
 
-   ## Skills
-   - Programming: Python, Java, C++
-   - Machine Learning: Deep Learning, Generative AI, Computer Vision
-   - Cloud Platforms: AWS Sagemaker, GCP Vertex AI
-   - Tools: TensorFlow, PyTorch, Jupyter Notebook, Android SDK
-   
-   ## Portfolio
-   [Check out my projects here](https://sites.google.com/view/mohammed-saqib/projects)
+- **Programming**: Python, C++, Java
+- **Machine Learning**: TensorFlow, PyTorch, scikit-learn
+- **Cloud Platforms**: AWS Sagemaker, GCP Vertex AI
+- **Specializations**: Generative AI, Deep Learning, Human Action Recognition, Computer Vision
+- **Data Science**: Data preprocessing, feature engineering, model evaluation
 
-   Let's connect and collaborate on exciting AI projects! 🚀
-   ```
+## 🌟 Featured Projects
 
-4. Once you're satisfied with your content, scroll down and click **Commit changes** to save it.
+- **Suspicious Activity Recognition in RGB-D Images**: Developed a methodology for fusing deep features using autoencoders to detect suspicious activities from video footage.
+- **Human Action Recognition**: Proposed and implemented a deep learning-based system for identifying human actions in real-time.
 
-### Step 3: View Your GitHub Profile
-- After committing the changes, the `README.md` file will automatically be displayed on your GitHub profile page as a section at the top.
-- You can visit your GitHub profile at `https://github.com/your-username`.
+Check out more of my [projects here](https://github.com/MohammedSaqibMS?tab=repositories).
 
-And that's it! You now have a customized "About Me" section displayed on your GitHub profile.
+## 📫 How to reach me
+
+I'm always open to collaborating on AI projects or discussing exciting opportunities in deep learning. Feel free to connect with me:
+
+- [LinkedIn](https://www.linkedin.com/in/muhammad-saqib-b77aa41b6/)
+- [Email](mailto:swe.saqib@gmail.com)
