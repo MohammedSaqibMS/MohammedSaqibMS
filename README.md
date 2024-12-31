@@ -29,6 +29,3 @@ Check out more of my [projects here](https://github.com/MohammedSaqibMS?tab=repo
 ## 📫 How to reach me
 
 I'm always open to collaborating on AI projects or discussing exciting opportunities in deep learning. Feel free to connect with me:
-
-- [LinkedIn](https://www.linkedin.com/in/muhammad-saqib-b77aa41b6/)
-- [Email](mailto:swe.saqib@gmail.com)
